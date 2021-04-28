@@ -1,9 +1,9 @@
-m2npcoin: A Platform Token for m2np
+# m2npcoin: A Platform Token for m2np
 
 Abstract. A purely peer-to-peer version of Social Network currency would allow online payments to be sent directly from one party to another 
 with/without going through m2np.com. ERC20 provide part of the solution, while m2np.com will be responsible for small transactions with little/no-fee. 
 
-Usage:
+## Usage:
 
 By spending m2np token you can get VIP services
 - Hide Ads
@@ -19,7 +19,8 @@ By spending m2np token you can get VIP services
 - Change a article's privacy settings after it's posted.
 - Give it to other people ANONYMOUSLY to exchange for services
 
-Token Nature:
+## Token Nature:
+
 We forge a fixed amount of m2np coin to 1000000000000000.0000000000000000 (16 integer places and 16 decimal places)
 We initially hold all the amount of the coin, and with a smart-contract with following limits:
 1. burnable (Burn is an action describing a certain part of the whole pool is being removed forever)
@@ -28,10 +29,10 @@ We initially hold all the amount of the coin, and with a smart-contract with fol
 2. Non-recreatable
 3. On ERC20 mainnet (Ethereum as gas)
 
-Future Plan:
+### Future Plan:
 1. We also seek for Layer2 solutions at the time that we recognise any of the L2 DEX projects is stable.
 
-Potential Problems and solutions:
+## Potential Problems and solutions:
 1. High on-chain transaction fee on Layer 1.
   - We provide a free/little-charge centralised exchange on m2np.com
   - You can get small amount from other users on m2np.com
@@ -43,7 +44,7 @@ Potential Problems and solutions:
 3. It is too slow to use up all the coins
   - We set the price of VIP and transaction according to the a ration to market price in the exchange, this also makes our expenses can be covered in a more realistic way.
 
-How to get/distribute m2np token:
+## How to get/distribute m2np token:
 It is still under discussion.
 1. we air-drop distribute through a proof of human existance by some SNS sites. (like the way of HNS)
 2. we sell them on the exchange.
