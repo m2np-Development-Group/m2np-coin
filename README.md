@@ -20,7 +20,7 @@ By spending m2np token you can get VIP services
 
 ## Token Nature:
 
-We forge a fixed amount of m2np coin to 1000000000000000.0000000000000000 (16 integer places and 16 decimal places)
+We forge a fixed amount of m2np coin to 9999999999.0000000000 (10 integer places and 10 decimal places)
 We initially hold all the amount of the coin, and with a smart contract with the following limits:
 1. burnable (Burn is an action describing a certain part of the whole pool is being removed forever)
   - tokens are burnt after the transaction for getting the m2np.com VIP services (so that: you spend just to make m2np more socially recognizable, we don't earn from your spending to use m2np.com.)
